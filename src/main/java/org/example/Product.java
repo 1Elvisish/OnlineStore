@@ -68,7 +68,10 @@ public class Product {
 
     private static void showCart(Scanner scanner) {
         System.out.println("=== Cart ===");
-        for (Store product;);
+        for (Store product); {
+
+        }
+    }
 
 
-
+}
