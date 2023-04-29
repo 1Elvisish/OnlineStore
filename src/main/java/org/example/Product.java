@@ -55,7 +55,7 @@ public class Product {
                 break;
             }
 
-            Store product = store.getProductById(id);
+            Store product = store;
 
             if (product == null) {
                 System.out.println("Invalid product id! Please try again.");
@@ -68,7 +68,7 @@ public class Product {
 
     private static void showCart(Scanner scanner) {
         System.out.println("=== Cart ===");
-        for (Store product);
+        for (Store product;);
 
 
 

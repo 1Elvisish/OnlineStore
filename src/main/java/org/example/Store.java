@@ -27,4 +27,15 @@ public class Store {
             e.printStackTrace();
         }
     }
+
+    public void getProductById(String id) {
+    }
+
+    public Store[] getInventory() {
+        return new Store[0];
+    }
+
+    public boolean getName() {
+        return false;
+    }
 }
